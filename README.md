@@ -1,0 +1,1 @@
+In this spring boot project we implement the Google ReCaptcha validation for the new employee registration to our application. Basically, ReCaptcha validation is done to prevent the robot from sending the data through POST Request.
